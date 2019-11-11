@@ -1,1 +1,2 @@
 magic feature: number of items in a coupon intersecting with the number of items shopped by the customer
+demographics was of no use
